@@ -1,0 +1,4 @@
+bpm 125;
+looplength 1 0 0;
+loopstart 1 0 0;
+samplestart 0 0 2;
